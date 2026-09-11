@@ -22,4 +22,4 @@ export default async function ProductPage({
   }
 
   return <ProductDetails product={product} />;
-}
+} 
